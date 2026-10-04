@@ -27,8 +27,12 @@ p:hover {
 }
 
 
-#tr {
+#hab {
     color: black;
     font-weight: bold;
 }
 
+#habi > li {
+    color: green;
+    font-weight: bold;
+}
