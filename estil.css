@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&display=swap');
 * {
-font-family: "Libre Caslon Condensed", "Arial", "helvetica", "sans-serif";
+font-family: "Libre Caslon Condensed", Arial, helvetica, sans-serif;
 }
 
 
@@ -10,13 +10,13 @@ h1 {
 h2 {
     color: orange
 }
-li {
-    color: blue
+a {
+    color: black
 }
 
 
-p:hover {
-    color: green;
+a:hover {
+    color: blue;
     text-decoration: underline;
 }
 
@@ -27,7 +27,7 @@ p:hover {
 }
 
 
-#hab {
+#habi {
     color: black;
     font-weight: bold;
 }
