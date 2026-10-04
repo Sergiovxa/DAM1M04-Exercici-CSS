@@ -32,7 +32,20 @@ p:hover {
     font-weight: bold;
 }
 
+
 #habi > li {
     color: green;
     font-weight: bold;
 }
+
+
+#habi > li:first-child {
+    color: red;
+    font-weight: bold;
+}
+#habi > li:last-child {
+    color: blue;
+    font-weight: bold;
+}
+
+
