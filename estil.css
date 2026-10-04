@@ -49,3 +49,13 @@ p:hover {
 }
 
 
+h1::before {
+    content: "*";
+    color: black;
+    font-weight: bold;
+}
+footer p::after {
+    content: " - Tots els drets reservats";
+    color: black;
+    font-weight: bold;
+}
